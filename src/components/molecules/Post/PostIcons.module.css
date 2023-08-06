@@ -1,0 +1,12 @@
+.post_contents_icons{
+    display: flex;
+    margin: 10px 0;
+}
+.post_contents_icons .left_icons{
+    display: flex;
+    flex-grow: 1;
+}
+
+.post_contents_icons .right_icons{
+    display: flex;
+}

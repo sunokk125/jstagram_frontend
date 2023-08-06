@@ -6,6 +6,7 @@
       "dom.iterable",
       "esnext"
     ],
+    "baseUrl": "./src", // 추가된 것 ./src를 절대 경로로 지정
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,

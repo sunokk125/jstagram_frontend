@@ -1,0 +1,7 @@
+.main_wrap{
+    display: flex;
+    height: 100%;
+}
+.main_contents{
+    width:100%;
+}

@@ -1,0 +1,26 @@
+.post_wrap{
+    border-bottom: 1px solid #cccccc;
+    width:470px;
+    padding-bottom: 20px;
+    margin-bottom: 12px;
+}
+.post_wrap .post_user_wrap{
+    display: flex;
+    align-items: center;
+    width:100%;
+}
+.post_wrap .post_user_wrap .post_user_info{
+    display: flex;
+    align-items: center;
+    margin:8px 4px;
+    flex-grow: 1;
+}
+.post_wrap .post_user_wrap .post_user_info .user_name{
+    margin-left: 16px;
+}
+.post_wrap .post_user_wrap .post_user_info .split{
+    margin-left: 4px;
+}
+.post_wrap .post_user_wrap .post_user_info .timestamp{
+    margin-left: 4px;
+}

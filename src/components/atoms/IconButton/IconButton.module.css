@@ -1,0 +1,14 @@
+.icon_button_wrap{
+    padding:12px;
+    border-radius: 5px;
+}
+.icon_button_wrap:hover{
+    background-color: rgba(32,32,32,0.1);
+    transform: scale(1.05);
+}
+.icon_button{
+    background-color: transparent;
+    border: 0;
+    border-radius: 5px;
+    padding:0;
+}

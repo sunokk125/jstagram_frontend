@@ -1,0 +1,32 @@
+.post_contents_textfields {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    flex-shrink: 1;
+    font: inherit;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+.post_contents_textfields .emoji{
+    order:3;
+}
+.post_contents_textfields textarea{
+    border:none;
+    display: flex;
+    flex-grow: 1;
+    resize: none;
+    height:18px;
+}
+.post_contents_textfields .enter{
+    margin:0 10px;
+    font-size: 0.8rem;
+    color:blue;
+    font-weight: bold;
+    cursor: pointer;
+}
+.post_contents_textfields .enter:hover{
+    color:black;
+}

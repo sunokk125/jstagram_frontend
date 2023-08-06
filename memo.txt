@@ -1,0 +1,9 @@
+# 할일
+1. 로그인 구현
+2. api 만들기 - 여행가서 하루 1시간정도 사용해서 간단하게 짜기
+3. 토큰 관리 ( access token - cookie , refresh token DB )
+4. redux 적용시켜보기
+5. 모달 css 구조 짜기
+
+# 만들페이지
+메인 페이지(post r / comment crud), 마이 페이지(내게시물, 내정보 crud)
